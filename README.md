@@ -138,8 +138,4 @@ This project is licensed under the MIT License.
 **TRX1730**
 - GitHub: [@TRX1730](https://github.com/TRX1730)
 
----
-
-⭐ Star this repository if you found it helpful!
-```
 
